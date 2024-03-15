@@ -15,7 +15,7 @@ variable_num: Number of variables in the logical formula (integer between 1 and 
 
 formula: Logical formula in RPN notation (e.g., "ab&c|").
 
-./ttable <variable_num><formula>
+./ttable < variable_num > < formula >
 
 Example:
 
