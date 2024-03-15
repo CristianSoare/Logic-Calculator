@@ -31,5 +31,4 @@ The maximum length of the formula is limited to 1000 characters.
 
 The maximum number of variables is limited to 26.
 
-Author
 Created by Cristian Soare
