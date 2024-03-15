@@ -1,6 +1,6 @@
-# Truth Table Generator
+# Logic Table Generator
 
-This program generates a truth table for a given logical formula in Reverse Polish Notation (RPN).
+This program generates a logic table for a given logical formula in Reverse Polish Notation (RPN).
 
 ## Installation
 
